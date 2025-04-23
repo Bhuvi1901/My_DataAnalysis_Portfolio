@@ -21,7 +21,7 @@ This project investigates the relationship between Environmental, Social, and Go
 Description:
 This project focuses on detecting fraudulent financial transactions by analyzing patterns in transaction data and building machine learning models to classify suspicious behavior. It aims to enhance security protocols and minimize financial risk.
 
-### 4. [CapEx Planning and Resource Allocation Analysis](https://github.com/Bhuvi1901/ChurnAnalysis)
+### 4. [CapEx Planning and Resource Allocation Analysis](https://github.com/Bhuvi1901/Capex-Analysis)
 
 Description:
 This project analyzes capital expenditure (CapEx) data to evaluate budgeting efficiency and forecast expenditure variance. It aims to support better financial planning and optimize budget allocation in projects.
